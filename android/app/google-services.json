@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451193617950",
+    "project_id": "flutter-modern-login-ui",
+    "storage_bucket": "flutter-modern-login-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451193617950:android:75daf948edf6621a4b780f",
+        "android_client_info": {
+          "package_name": "com.example.login_pages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451193617950-u99vrl4qbeerejsslumt05pahv2md8tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrEA1w_HjJEejFSZZcPBUeKyeONlmO-2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451193617950-u99vrl4qbeerejsslumt05pahv2md8tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
